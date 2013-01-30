@@ -1,4 +1,4 @@
 testGit
 =======
 
-test 测试中文
+test
